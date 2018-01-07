@@ -1,0 +1,25 @@
+# project  configured on Sat Jan  6 23:51:18 2018 by
+# waf 1.7.11 (abi 98, python 2070ef0 on linux2)
+# using /home/wsinatra/.pebble-sdk/SDKs/current/sdk-core/pebble/waf configure
+#
+----------------------------------------
+Setting top to
+/home/wsinatra/emacswf
+----------------------------------------
+Setting out to
+/home/wsinatra/emacswf/build
+----------------------------------------
+Checking for program webpack
+/home/wsinatra/.pebble-sdk/SDKs/current/node_modules/.bin/webpack
+find program=['webpack'] paths=['/home/wsinatra/.pebble-sdk/SDKs/current/node_modules/.bin'] var='WEBPACK' -> '/home/wsinatra/.pebble-sdk/SDKs/current/node_modules/.bin/webpack'
+----------------------------------------
+Found Pebble SDK for basalt in:
+/home/wsinatra/.pebble-sdk/SDKs/current/sdk-core/pebble/basalt
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-ar'

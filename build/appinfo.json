@@ -1,0 +1,27 @@
+{
+    "targetPlatforms": [
+        "basalt"
+    ], 
+    "displayName": "Emacs", 
+    "name": "emacswf", 
+    "messageKeys": {
+        "dummy": 10000
+    }, 
+    "companyName": "Durrendal", 
+    "enableMultiJS": true, 
+    "versionLabel": "1.0", 
+    "capabilities": [], 
+    "sdkVersion": "3", 
+    "appKeys": {
+        "dummy": 10000
+    }, 
+    "longName": "Emacs", 
+    "shortName": "Emacs", 
+    "watchapp": {
+        "watchface": true
+    }, 
+    "resources": {
+        "media": []
+    }, 
+    "uuid": "cd98f7c4-2161-4e6c-8fcc-6e01d9ef9434"
+}

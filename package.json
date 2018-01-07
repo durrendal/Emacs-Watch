@@ -1,0 +1,26 @@
+{
+  "name": "emacswf",
+  "author": "Durrendal",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "Emacs",
+    "uuid": "cd98f7c4-2161-4e6c-8fcc-6e01d9ef9434",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "basalt"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "messageKeys": [
+      "dummy"
+    ],
+    "resources": {
+      "media": []
+    }
+  }
+}
